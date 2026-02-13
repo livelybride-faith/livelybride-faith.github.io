@@ -10,7 +10,11 @@ title: Devotionals
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
       <div class="entry">
-        {{ post.excerpt | strip_html | truncatewords: 30 }}
+        {% if post.excerpt %}
+          {{ post.excerpt | strip_html | truncatewords: 30 }}
+        {% else %}
+          {{ post.content | strip_html | truncatewords: 30 }}
+        {% endif %}
       </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
