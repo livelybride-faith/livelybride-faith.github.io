@@ -1,4 +1,4 @@
-# Forked from jekyll github original content
+# Forked from jekyll github original repo
 This is my personal static website that I post my Devotionals so if you'd like a clean version, head over to ([Jekyll Repository](https://github.com/jekyll/jekyll)) to get the original repo.
 
 Thank you for your interests and taking time to read my posts, if you've enjoy my posts and would like to show appreciation, you can share it with others linking back to [my website (https://salvation.onrender.com)](https://salvation.onrender.com) or [![PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/MichelleYeow)
