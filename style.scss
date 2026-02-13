@@ -196,3 +196,19 @@ a {
     pointer-events: none; // Ensures it doesn't block clicks
   }
 }
+
+.read-more {
+  display: inline-block;
+  margin-top: 15px;
+  font-weight: 700;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: $electric-purp;
+  transition: all 0.3s ease;
+
+  &:hover {
+    color: $deep-violet;
+    text-decoration: underline;
+  }
+}
