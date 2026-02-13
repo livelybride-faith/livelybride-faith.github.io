@@ -165,35 +165,34 @@ a {
 // SCROLL INDICATOR ANIMATION
 @keyframes bounce-glow {
   0%, 100% { 
-    transform: translateY(0); 
+    // You MUST repeat the horizontal center and the rotation here
+    transform: translateX(-50%) rotate(45deg) translateY(0); 
     filter: drop-shadow(0 0 5px $electric-purp);
   }
   50% { 
-    transform: translateY(10px); 
+    // Keep the center and rotation, only change the Y axis for the bounce
+    transform: translateX(-50%) rotate(45deg) translateY(10px); 
     filter: drop-shadow(0 0 15px lighten($electric-purp, 10%));
   }
 }
 
 .scroll-indicator {
-  display: none; // Hidden by default on desktop
-
   @media (max-width: 850px) {
     display: block;
     position: absolute;
     bottom: 20px;
     left: 50%;
-    //transform: translateX(-50%);
-    width: 30px;
-    height: 30px;
-    cursor: pointer;
+    width: 20px;
+    height: 20px;
     
-    // The Arrow Drawing
     border-right: 4px solid $electric-purp;
     border-bottom: 4px solid $electric-purp;
+    
+    // This is the "initial" state before animation kicks in
     transform: translateX(-50%) rotate(45deg);
     
     animation: bounce-glow 2s infinite ease-in-out;
-    pointer-events: none; // Ensures it doesn't block clicks
+    pointer-events: none;
   }
 }
 
