@@ -1,7 +1,7 @@
 # Forked from jekyll github original content
 This is my personal static website that I post my Devotionals so if you'd like a clean version, head over to ([Jekyll Repository](https://github.com/jekyll/jekyll)) to get the original repo.
 
-Thank you for your interests and taking time to read my posts, if you've enjoy my posts and would like to show appreciation, you can share it with others linking back to [my ![website](https://salvation.onrender.)](https://salvation.onrender.com) or [![PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/MichelleYeow)
+Thank you for your interests and taking time to read my posts, if you've enjoy my posts and would like to show appreciation, you can share it with others linking back to [my website (https://salvation.onrender.)](https://salvation.onrender.com) or [![PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/MichelleYeow)
 
 
 > March, 2016: If you're on an old version of Jekyll Now and run into a) build warnings or b) syntax highlighting issues caused by [Jekyll 3 and GitHub Pages updates](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0), just :sparkles:[update your _config.yml](https://github.com/barryclark/jekyll-now/pull/445/files):sparkles: and you'll be set!
