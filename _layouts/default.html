@@ -50,14 +50,32 @@
     <script>
       var refTagger = {
         settings: {
+          addLogosLink: true,
+          bibleReader: "bible.faithlife",
           bibleVersion: "ESV",
+          convertHyperlinks: true,
+          logosLinkIcon: "light",
+          noSearchTagNames: ["h1"],
           roundCorners: true,
-          tagChapters: true
+          socialSharing: ["twitter","facebook","google"],
+          tagChapters: true,
+          customStyle : {
+            heading: {
+              backgroundColor : "#e6e7f8",
+              color : "#4d22b3"
+            },
+            body   : {
+              color : "#000000"
+            }
+          }
         }
       };
       (function(d, t) {
+        var n=d.querySelector("[nonce]");
+        refTagger.settings.nonce = n && (n.nonce||n.getAttribute("nonce"));
         var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
         g.src = "https://api.reftagger.com/v2/RefTagger.js";
+        g.nonce = refTagger.settings.nonce;
         s.parentNode.insertBefore(g, s);
       }(document, "script"));
     </script>
