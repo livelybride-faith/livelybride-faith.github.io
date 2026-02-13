@@ -6,12 +6,11 @@ title: Devotionals
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
+      
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
       <time class="post-date" style="font-size: 0.8rem; color: #888; text-transform: uppercase;">
         {{ post.date | date: "%d %b %Y" }}
       </time>
-      
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
       <div class="entry">
          {{ post.content | truncatewords:40}}
       </div>
