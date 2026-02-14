@@ -145,17 +145,6 @@ a {
   }
 }
 
-/* Target h1 specifically within your post content */
-.post h1 {
-  position: relative;
-  padding-bottom: 10px; /* Space between text and line */
-  border-bottom: 2px solid #4B0082; /* Deep Violet line */
-  
-  /* Creates the glowing effect */
-  box-shadow: 0 4px 6px -1px rgba(75, 0, 130, 0.5), 
-              0 2px 4px -2px rgba(75, 0, 130, 0.3);
-}
-
 // FOOTER
 .sidebar-footer {
   margin-top: 40px;
