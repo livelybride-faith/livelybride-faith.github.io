@@ -1,19 +1,17 @@
 ---
 layout: default
-title: Tagged Posts
 pagination:
   enabled: true
-  data: site.data.bible
+  collection: site.data.bible
   permalink: /tag/:tag/
 ---
-
 <h1>Posts tagged with "{{ pagination.page.tag }}"</h1>
 
 <ul class="posts">
   {% for post in site.tags[pagination.page.tag] %}
     <li>
       <span>{{ post.date | date_to_string }}</span> &raquo; 
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
