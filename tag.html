@@ -8,10 +8,12 @@ pagination:
 <h1>Posts tagged with "{{ pagination.page.tag }}"</h1>
 
 <ul class="posts">
-  {% for post in site.tags[pagination.page.tag] %}
-    <li>
-      <span>{{ post.date | date_to_string }}</span> &raquo; 
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-    </li>
+  {% for post in site.posts %}
+    {% if post.tag == pagination.page.tag %}
+      <li>
+        <span>{{ post.date | date_to_string }}</span> &raquo; 
+        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      </li>
+    {% endif %}
   {% endfor %}
 </ul>
