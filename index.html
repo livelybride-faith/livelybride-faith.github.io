@@ -13,7 +13,7 @@ title: Devotionals
       </time>
       
       <div class="entry">
-         {{ post.content | strip_html | truncatewords:30}}
+        {{ post.content | replace_first: "Devotional Meditation", "" | strip_html | truncatewords:30 }}
       </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More &rarr;</a>
