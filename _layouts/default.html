@@ -26,6 +26,9 @@
             <nav>
               <a href="{{ site.baseurl }}/">Posts</a>
               <a href="{{ site.baseurl }}/about">About</a>
+              {% for book in site.data.bible %}
+                <a href="{{ site.baseurl }}/tag.html?t={{ book.tag }}">{{ book.name }}</a>
+              {% endfor %}
             </nav>
             
             <div class="dropdown">
