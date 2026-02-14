@@ -379,3 +379,13 @@ a {
   background: #4B0082;
   color: #fff;
 }
+
+/* Specific styling for the tag page title only */
+.tag-page-title {
+  position: relative;
+  padding-bottom: 10px;
+  border-bottom: 2px solid #4B0082; /* Deep Violet */
+  box-shadow: 0 4px 6px -1px rgba(75, 0, 130, 0.3);
+  margin-bottom: 40px;
+  text-align: center;
+}
