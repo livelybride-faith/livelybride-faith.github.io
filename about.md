@@ -25,5 +25,5 @@ only to find out there is more.
 > Source : which ever URL you share from this site.
 
 ### Monetization
-> Kindly contact me at [Stoat.Chat server](https://stt.gg/3vTTwtM8) or [email me](rescuer_twelve2s@icloud.com) if the sharing involved any kind of monetization. 
+> Kindly contact me at [Stoat.Chat server](https://stt.gg/3vTTwtM8) or [email me](mailto:rescuer_twelve2s@icloud.com) if the sharing involved any kind of monetization. 
 
