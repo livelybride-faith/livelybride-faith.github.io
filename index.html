@@ -3,19 +3,20 @@ layout: default
 title: Devotionals
 ---
 
-<div class="posts">
+<div class="posts-container">
   {% for post in site.posts %}
-    <article class="post">
+    <div class="post-card">
       
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-      <time class="post-date" style="font-size: 0.8rem; color: #888; text-transform: uppercase;">
+      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+      <time class="post-date">
         {{ post.date | date: "%d %b %Y" }}
       </time>
+      
       <div class="entry">
-         {{ post.content | truncatewords:40}}
+         {{ post.content | strip_html | truncatewords:30}}
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More &rarr;</a>
+    </div>
   {% endfor %}
 </div>

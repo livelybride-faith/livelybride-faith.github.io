@@ -312,3 +312,70 @@ a {
     }
   }
 }
+
+/* --- Homepage Post Cards Styling --- */
+.posts-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 25px;
+  margin-top: 30px;
+}
+
+.post-card {
+  background: #fff;
+  border: 1px solid #eee;
+  padding: 25px;
+  border-radius: 10px;
+  transition: transform 0.2s, box-shadow 0.2s;
+  display: flex;
+  flex-direction: column;
+}
+
+.post-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(75, 0, 130, 0.15); /* Soft violet shadow */
+  border-color: #4B0082; /* Deep Violet border */
+}
+
+.post-card h2 {
+  margin-top: 0;
+  font-size: 1.5em;
+  line-height: 1.2;
+}
+
+.post-card h2 a {
+  text-decoration: none;
+  color: #222;
+}
+
+.post-date {
+  font-size: 0.8rem;
+  color: #888;
+  text-transform: uppercase;
+  display: block;
+  margin-bottom: 15px;
+}
+
+.entry {
+  color: #555;
+  font-size: 0.95em;
+  margin-bottom: 20px;
+  flex-grow: 1; /* Pushes button to bottom */
+}
+
+.read-more {
+  text-decoration: none;
+  font-weight: bold;
+  color: #4B0082; /* Deep Violet */
+  border: 1px solid #4B0082;
+  padding: 8px 15px;
+  border-radius: 5px;
+  display: inline-block;
+  text-align: center;
+  transition: background 0.2s, color 0.2s;
+}
+
+.read-more:hover {
+  background: #4B0082;
+  color: #fff;
+}
