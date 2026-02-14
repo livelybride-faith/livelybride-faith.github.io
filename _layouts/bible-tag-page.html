@@ -17,7 +17,7 @@ layout: default
           </time>
           
           <div class="entry">
-             {{ post.content | strip_html | truncatewords:30}}
+             {{ post.content | strip_html | replace_first: "Devotional Meditation", "" | truncatewords:30}}
           </div>
 
           <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More &rarr;</a>
