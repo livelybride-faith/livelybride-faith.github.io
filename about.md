@@ -17,7 +17,7 @@ I wonder how much more there is to learn and to break,
 only to find out there is more.
 
 ### Copyrights
-> Kindly mention the source such as below or [![PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/MichelleYeow) or both if you're feeling generous! Thank you!
+> Kindly mention the source such as below or [![PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/MichelleYeow) or both or just say a prayer for me to get provision from God, trying to land a job, I hope it's successful and pay on time. Thank you. 
 
 #### Citation Example : 
 > Author : Michelle Yeow <br/>
