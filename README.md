@@ -1,7 +1,13 @@
 # Forked from jekyll github original repo
 This is my personal static website that I post my Devotionals so if you'd like a clean version, head over to ([Jekyll Repository](https://github.com/jekyll/jekyll)) to get the original repo.
 
-Thank you for your interests and taking time to read my posts, if you've enjoy my posts and would like to show appreciation, you can share it with others linking back to https://livelybride-faith.github.io/ or/& [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-PayPal-orange.svg)](https://www.paypal.com/paypalme/MichelleYeow)
+Thank you for your interests and taking time to read my posts, if you've enjoy my posts and would like to show appreciation, you can share it with others linking back to https://livelybride-faith.github.io/ or you can support with the link below or just say a prayer for me to Jesus Christ for God's provision for me. 
+Trying to land a job & hope it will pay on time as well. Much appreciated. Thank you.
+
+## Sponsors
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/MichelleYeow)
+
+[![Stripe](https://img.shields.io/badge/Donate-Stripe-626cd9?style=for-the-badge&logo=Stripe&logoColor=white)](https://buy.stripe.com/14A4gBetB9X01QeaUFeZ200)
 
 --- 
 > March, 2016: If you're on an old version of Jekyll Now and run into a) build warnings or b) syntax highlighting issues caused by [Jekyll 3 and GitHub Pages updates](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0), just :sparkles:[update your _config.yml](https://github.com/barryclark/jekyll-now/pull/445/files):sparkles: and you'll be set!
