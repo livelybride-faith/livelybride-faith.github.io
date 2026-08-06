@@ -17,7 +17,7 @@ I wonder how much more there is to learn and to break,
 only to find out there is more.
 
 ### Copyrights
-> Kindly mention the source such as below or [![PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/MichelleYeow) or both or just say a prayer for me to get provision from God, trying to land a job, I hope it's successful and pay on time. Thank you. 
+> Kindly mention the source such as below or [![PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/MichelleYeow) or both or just say a prayer for me to get provision from God, ~~trying to land a job~~, I hope it's successful and pay on time. Thank you for your prayers! I found a job, all glory to God and I hope it's long lasting, maybe one day I can serve Him full time in church, in His time. Meanwhile, keep praying for God's provision and to bless this ministry~ 
 
 #### Citation Example : 
 > Author : Michelle Yeow <br/>
