@@ -1,0 +1,10 @@
+---
+layout: post
+title: 1 Thessalonians - Joy in persecution for hope is in Christ
+tag: 1Thessalonians
+---
+Paul’s letter to the Thessalonians which is nearer to Philippi where their main culture is from a Hellenistic background, meaning Greek speaking Jews like Luke. Silvanus mentioned here is the same person as Silas mentioned in book of Acts as well. So three of them, Paul, Silas & Timothy greeted them in unity and that meant it’s proven and they all witnessed truthfully in the Lord for being in agreement that the Christian in Thessalonica were indeed faithful in their journey with God. 
+
+They have become an example as they imitate them not only in the faith but in spite of persecutions and received the word with joy from the Holy Spirit! Most believers can handle persecutions but with joy? Not so much. That was why Paul was so grateful and this is an encouragement for Paul himself because of what he had went thru in persecutions and he tried to pass this teachings on. It’s like a parent being proud of their children doing well and even exceeding their expectations knowing that they have grown so much and matured, it’s a consolation and comfort because then they have done their job well and that they are now able and strengthened for the troubles ahead without losing their joy and life. It serves as a reminder for believers as sometimes there’s a misconception that suffering must lead to depression and that it must have been a punishment for whatever reason. However it is clear that it is a spiritual battle and struggling is suffering for the faith, the key is the hope in Christ that now turning away from idolatry and false gods to serve a living and true God, we now know that this is not in vain! It is certain and no longer futile because we wait in hope for Christ Jesus to come again! 
+
+May our Lord Jesus Christ strengthened all believers and those who are suffering for the faith in all around the world, give us joy and peace that is unspeakable and fill us all with power and hope from the Holy Spirit. 
