@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 1 Thessalonians - Joy in persecution for hope is in Christ
+title: 1 Thessalonians 2 - Paul’s acknowledgement of the faith from Thessalonians
 tag: 1Thessalonians
 ---
 Paul was someone that walked the talk as he went thru persecutions and sufferings in Philippi which was recorded in the book of Acts chapter 17 for the sake of the gospel of Christ. So he truly understood the situation of the Thessalonians and he commended them that it is good and glorious of what they have gone thru as well for the sake of the truth. It is a common thing for people to bond easily when they have some sort of similar experience in life because people crave understanding and it enhanced the sense of belonging or not alone which somehow feels comforting. 
