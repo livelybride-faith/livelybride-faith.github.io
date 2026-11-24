@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2 Thessalonians 2 - Listen, believe in the truth & be saved
-tag: 1Thessalonians
+tag: 2Thessalonians
 ---
 Reading this chapter is a bit terrifying but maybe that’s why there’s a saying can you handle the truth. The context of the matter that Paul was addressing is about the rumours that caused the Thessalonians to doubt what they have been taught which is our Lord Jesus Christ will come again. They thought that it already happened and if I would to assume or imagine what happened, it would be that someone tried to deceive or believed that they themselves were the Messiah. This has been happening throughout history in various masks and themes. Idolatry that compelled people to be worshipped or even to worship objects or any subjects is one of them. 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2 Thessalonians 1 - The judgement day of Christ
-tag: 1Thessalonians
+tag: 2Thessalonians
 ---
 The second letter from Paul to the Thessalonians was probably after a few months, and it was to address some rising issues from the church in Thessalonica. Particularly the Day of the Lord, some Christians stopped working and became busy bodies interfering in others’ lives, it must have been quite serious. This is quite an eye opener that even in that era, there were such cases as of now in 2026 as well. Some people use their mouth more than their hands and we’ve all seen it in the church, family and workplace. This is in the context of those who always complained but never helps and no matter what was done to improve it, they are still picky about many things. I’m not saying that this is the case in Thessalonica but it could be just one of the example. 
 
